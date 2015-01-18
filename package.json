@@ -4,8 +4,9 @@
   "description": "This is a shake detection algorithm for QuakeShake",
   "main": "app.js",
   "dependencies": {
-    "azure-storage": "*",
-    "ws": "*"
+    "azure": "*",
+    "ws": "*",
+    "mathjs": "*"
   },
   "homepage": "https://github.com/bureado/ShakeyShake"
 }
