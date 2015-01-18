@@ -1,0 +1,11 @@
+{
+  "name": "ShakeyShake",
+  "version": "0.0.1",
+  "description": "This is a shake detection algorithm for QuakeShake",
+  "main": "app.js",
+  "dependencies": {
+    "azure-storage": "*",
+    "ws": "*"
+  },
+  "homepage": "https://github.com/bureado/ShakeyShake"
+}
